@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Aaron's Portfolio"
 ---
+Hello, my name is Aaron and I'm a 3rd year Electrical Engineering Major at UC Davis.
